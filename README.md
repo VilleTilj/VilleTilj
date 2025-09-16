@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ville Tiljander
 =======================================================================================================================================
 
-Master's degree student in Factory Automation and Robotics, Automation Engineering
+Automation engineer / software engineer.
 ----------------------------------------------------------------------------------
 
 * 🌍  I'm based in Tampere, Finland
